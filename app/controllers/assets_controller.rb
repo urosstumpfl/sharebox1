@@ -49,3 +49,4 @@ class AssetsController < ApplicationController
   end
 end
 
+
