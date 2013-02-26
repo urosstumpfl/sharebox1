@@ -23,4 +23,6 @@ class User < ActiveRecord::Base
 
   validates_attachment_size :uploaded_file, :less_than => 10.megabytes
   validates_attachment_presence :uploaded_file
+
+  has_many :folders
 end

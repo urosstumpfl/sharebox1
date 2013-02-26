@@ -48,3 +48,6 @@ gem "paperclip", "~> 2.3"
 # gem 'debugger'
 
 gem "mocha", :group => :test
+
+#For nested folders
+gem "acts_as_tree"
