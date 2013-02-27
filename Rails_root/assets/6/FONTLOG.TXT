@@ -1,0 +1,1479 @@
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                          'Courier' -   0.58567630 seconds.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                         'Gabriola' -   0.82436825 seconds.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                        'MS Gothic' -   0.50385134 seconds.
+Font:                               'Microsoft JhengHei' -   0.60012955 seconds.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                 'Arial Unicode MS' -   1.43947357 seconds.
+Font:                                           'Batang' -   0.84126160 seconds.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                          'Courier' -   0.51097521 seconds.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                    'MS Sans Serif' -   0.50209003 seconds.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                 'Arial Unicode MS' -   0.62323749 seconds.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                 'Arial Unicode MS' -   0.60159033 seconds.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
+Font:                                           'System' - preview generation error.
+Font:                                         'Terminal' - preview generation error.
+Font:                                    'MingLiU_HKSCS' - preview generation error.
+Font:                                          'Courier' - preview generation error.
+Font:                                         'Fixedsys' - preview generation error.
+Font:                                    'MS Sans Serif' - preview generation error.
+Font:                                         'MS Serif' - preview generation error.
+Font:                                      'Small Fonts' - preview generation error.
+Font:                                           'Symbol' - preview generation error.
