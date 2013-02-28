@@ -1,5 +1,5 @@
 class CreateSharedFolders < ActiveRecord::Migration
-  def self.up
+  def change
     create_table :shared_folders do |t|
       t.integer :user_id
       t.string :shared_email
@@ -9,13 +9,8 @@ class CreateSharedFolders < ActiveRecord::Migration
 
       t.timestamps
     end
-
     add_index :shared_folders, :user_id
     add_index :shared_folders, :shared_user_id
     add_index :shared_folders, :folder_id
-  end
-
-  def self.down
-    drop_table :shared_folders
   end
 end

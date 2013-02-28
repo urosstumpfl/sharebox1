@@ -58,6 +58,9 @@ class HomeController < ApplicationController
     end
   end
 
+  #now send email to the recipients
+  UserMailer.invitation_to_share(@shared_folder).deliver
+
 
 
 end
