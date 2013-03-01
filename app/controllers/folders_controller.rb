@@ -10,7 +10,7 @@ class FoldersController < ApplicationController
   def new
     @folder = current_user.folders.new
     #if there is "folder_id" param, we know that we are under a folder, thus, we will essentially create a subfolder
-    if params[:folder_id] #if we want to create a folder inside another folder
+    if params[:folder_id].present? #if we want to create a folder inside another folder
 
       #we still need to set the @current_folder to make the buttons working fine
       @current_folder = current_user.folders.find(params[:folder_id])
@@ -37,7 +37,7 @@ class FoldersController < ApplicationController
 
   def edit
     @folder = current_user.folders.find(params[:folder_id])
-    @current_folder = @folder.parent    #this is just for breadcrumbs
+    @current_folder = @folder.parent
   end
 
   def update
