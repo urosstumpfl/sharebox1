@@ -134,7 +134,7 @@ body {
     background:url("shared_folder.png") no-repeat scroll left center #EFEFEF;
 }
 .file.asset_details:hover  {
-    background:url("../images/file.png") no-repeat scroll left center #EFEFEF;
+    background:url("file.png") no-repeat scroll left center #EFEFEF;
 }
 
 .breadcrumbs {
@@ -147,7 +147,7 @@ body {
 }
 
 .actions {
-    float:rightright;
+    float:right;
     font-size:11px;
 }
 .share, .rename, .download, .delete{
@@ -248,10 +248,4 @@ body {
 .error_messages ul {
     margin: 0;
 }
-
-
-
-
-
-
 
